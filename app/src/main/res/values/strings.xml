@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alc 4 Phase 1</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="kenya">Kenya</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="riobazablon_gmail_com">riobazablon@gmail.com</string>
+    <string name="_254716565441">254716565441</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="alc4_android_slack_com">alc4-android.slack.com</string>
+    <string name="android">Android</string>
+    <string name="track">Track</string>
+    <string name="zablon_rioba">Zablon Rioba</string>
+</resources>
